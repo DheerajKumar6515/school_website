@@ -5,6 +5,7 @@ import Gallery from './Gallery';
 import TestimonialsCarousel from './TestimonialsCarousel';
 import ContactSection from './ContactSection';
 import Footer from './Footer';
+import schoolimg from '../images/school.jpeg'
 
 
 export default function Hero() {
@@ -23,8 +24,7 @@ export default function Hero() {
     <>
     {/* hero section */}
     <section
-    className="relative bg-cover bg-center h-screen" id='home'
-    style={{ backgroundImage: "url('/src/images/school.jpeg')" }}
+    className="relative bg-[url('/src/images/school.jpeg')] bg-cover bg-center h-screen" id='home' 
   >
    
     {/* Overlay for background image */}
