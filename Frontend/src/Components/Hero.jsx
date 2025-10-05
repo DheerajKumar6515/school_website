@@ -5,7 +5,6 @@ import Gallery from './Gallery';
 import TestimonialsCarousel from './TestimonialsCarousel';
 import ContactSection from './ContactSection';
 import Footer from './Footer';
-import schoolimg from '../images/school.jpeg'
 
 
 export default function Hero() {

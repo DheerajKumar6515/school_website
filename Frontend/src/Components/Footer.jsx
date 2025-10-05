@@ -55,16 +55,16 @@ export default function Footer() {
           <h3 className="text-lg font-semibold text-white">Follow Us</h3>
           <div className="mt-4 flex space-x-6">
             <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors duration-300">
-            <i class="ri-facebook-circle-line text-2xl"></i> {/* Add Font Awesome icons for social media */}
+            <i className="ri-facebook-circle-line text-2xl"></i> {/* Add Font Awesome icons for social media */}
             </a>
             <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors duration-300">
-            <i class="ri-twitter-x-line text-2xl"></i>
+            <i className="ri-twitter-x-line text-2xl"></i>
             </a>
             <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors duration-300">
-            <i class="ri-instagram-line text-2xl"></i>
+            <i className="ri-instagram-line text-2xl"></i>
             </a>
             <a href="https://youtube.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors duration-300">
-            <i class="ri-youtube-line text-2xl"></i>
+            <i className="ri-youtube-line text-2xl"></i>
             </a>
           </div>
         </div>
