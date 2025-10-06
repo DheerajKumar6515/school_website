@@ -22,7 +22,7 @@ const Signupform = () => {
   return (
     <div className="min-h-screen bg-[#e9deff] flex justify-center items-center">
       <div className='hidden md:block'>
-        <img className='bg-center bg-cover w-full h-full' src="./src/images/png5.png" alt="png image" />
+        <img className='bg-center bg-cover w-full h-full' src="/png5.png" alt="png image" />
       </div>
       <div className="bg-white p-8 rounded-lg shadow-lg max-w-md w-full">
         <h2 className="text-3xl font-semibold text-center text-gray-700 mb-6 font-Roboto">Create an Account</h2>
