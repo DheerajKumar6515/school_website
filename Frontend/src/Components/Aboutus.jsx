@@ -1,8 +1,7 @@
-import png3 from '../images/png3.png'
 
 function Aboutus() {
   return (
-    <section className="py-12 bg-gray-100 bg-[url('./src/images/png3.png')]  bg-no-repeat bg-right bg-contain" id="about">
+    <section className="py-12 bg-gray-100 bg-[url('/png3.png')] bg-no-repeat bg-right bg-contain" id="about">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center">
           <h2 className="text-3xl md:text-4xl font-semibold text-gray-800 font-Enriqueta">About Us</h2>
@@ -39,7 +38,7 @@ function Aboutus() {
         <div className="mt-12 flex flex-col-reverse md:flex-row justify-center md:justify-start">
           <div className="md:w-1/2">
             <img
-              src="/src/images/classroom.jpg"
+              src="/classroom.jpg"
               alt="School Image"
               className="w-full rounded-xl shadow-lg"
             />
