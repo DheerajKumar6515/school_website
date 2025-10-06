@@ -7,7 +7,7 @@ export default function Features() {
   
     <section className="py-12 bg-white relative" id="features">
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div className='absolute  '><img className='w-48' src="./src/images/png1.png" alt="png img" /></div>
+      <div className='absolute  '><img className='w-48' src="/png1.png" alt="png img" /></div>
       <div className="text-center">
         <h2 className="text-3xl md:text-4xl font-semibold text-gray-800 font-Enriqueta">Why Choose Us?</h2>
         <p className="mt-4 text-base md:text-base text-gray-600 max-w-3xl mx-auto font-Roboto">

@@ -16,7 +16,7 @@ function Navbar() {
        
         <header className=" p-4 w-full fixed z-50 bg-[#14131345] backdrop-blur-xs">
       <div className="max-w-7xl mx-auto flex items-center justify-between">
-        <div onClick={()=>{navigate('/')}} className="text-white font-Enriqueta w-9 text-center text-xl border-2 border-dotted rounded-full">NS</div>
+        <div onClick={()=>{navigate('/')}} className="cursor-pointer text-white font-Enriqueta w-9 text-center text-xl border-2 border-dotted rounded-full">NS</div>
 
         {/* Hamburger Icon */}
         <div className="lg:hidden" onClick={toggleMenu}>

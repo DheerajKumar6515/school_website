@@ -24,7 +24,7 @@ const Loginform = () => {
   };
 
   return (
-    <div className="min-h-screen bg-[url(./src/images/png4.png)] bg-[#faebd7] bg-no-repeat bg-left  flex justify-center items-center">
+    <div className="min-h-screen bg-[url(/png4.png)] bg-[#faebd7] bg-no-repeat bg-left  flex justify-center items-center">
       <div className="bg-white p-8 rounded-lg shadow-lg max-w-md w-full">
         <h2 className="text-3xl font-semibold text-center text-gray-700 mb-6 font-Opensans">Login</h2>
         <form onSubmit={handleSubmit}>

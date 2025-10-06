@@ -24,7 +24,7 @@ export default function ContactSection() {
 
   return (
    
-    <section className="py-12 bg-gray-100 bg-[url('./src/images/png4.png')] bg-no-repeat" id="contact-us">
+    <section className="py-12 bg-gray-100 bg-[url('/png4.png')] bg-no-repeat" id="contact-us">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center">
           <h2 className="text-3xl md:text-4xl font-semibold text-gray-800 font-Enriqueta">Contact Us</h2>
